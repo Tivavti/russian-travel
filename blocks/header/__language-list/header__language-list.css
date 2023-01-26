@@ -1,0 +1,13 @@
+.header__language-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  column-gap: 20px;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .header__language-en {
+    column-gap: 18px;
+}
+}
