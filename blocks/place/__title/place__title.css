@@ -5,6 +5,7 @@
   grid-area: title;
   margin: 0 0 48px;
   align-self: end;
+  max-width: 460px;
 }
 
 @media screen and (max-width: 1023px) {
